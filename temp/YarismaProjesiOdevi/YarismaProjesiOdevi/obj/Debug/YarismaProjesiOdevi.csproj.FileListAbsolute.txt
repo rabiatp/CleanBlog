@@ -1,0 +1,6 @@
+C:\C# Proje\YarismaProjesiOdevi\YarismaProjesiOdevi\bin\Debug\YarismaProjesiOdevi.exe
+C:\C# Proje\YarismaProjesiOdevi\YarismaProjesiOdevi\bin\Debug\YarismaProjesiOdevi.pdb
+C:\C# Proje\YarismaProjesiOdevi\YarismaProjesiOdevi\obj\Debug\YarismaProjesiOdevi.csproj.AssemblyReference.cache
+C:\C# Proje\YarismaProjesiOdevi\YarismaProjesiOdevi\obj\Debug\YarismaProjesiOdevi.csproj.CoreCompileInputs.cache
+C:\C# Proje\YarismaProjesiOdevi\YarismaProjesiOdevi\obj\Debug\YarismaProjesiOdevi.exe
+C:\C# Proje\YarismaProjesiOdevi\YarismaProjesiOdevi\obj\Debug\YarismaProjesiOdevi.pdb
